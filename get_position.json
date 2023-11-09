@@ -1,0 +1,100 @@
+[
+     {
+       "position_name_th": "พลตำรวจเอก",
+       "position_id": 2,
+       "position_name_short_th": "พล.ต.อ.",
+       "position_name_en": "Police General",
+       "position_name_short_en": "POL.GEN."
+     },
+     {
+       "position_name_th": "พลตำรวจโท",
+       "position_id": 3,
+       "position_name_short_th": "พล.ต.ท.",
+       "position_name_en": "Police Lieutenant General",
+       "position_name_short_en": "POL.LT.GEN."
+     },
+     {
+       "position_name_th": "พลตำรวจตรี",
+       "position_id": 4,
+       "position_name_short_th": "พล.ต.ต.",
+       "position_name_en": "Police Major General",
+       "position_name_short_en": "POL.MAJ.GEN."
+     },
+     {
+       "position_name_th": "พันตำรวจเอก",
+       "position_id": 5,
+       "position_name_short_th": "พ.ต.อ.",
+       "position_name_en": "Police Colonel",
+       "position_name_short_en": "POL.COL."
+     },
+     {
+       "position_name_th": "พันตำรวจโท",
+       "position_id": 6,
+       "position_name_short_th": "พ.ต.ท.",
+       "position_name_en": "Police Lieutenant Colonel",
+       "position_name_short_en": "POL.LT.COL."
+     },
+     {
+       "position_name_th": "พันตำรวจตรี",
+       "position_id": 7,
+       "position_name_short_th": "พ.ต.ต.",
+       "position_name_en": "Police Major",
+       "position_name_short_en": "POL.MAJ."
+     },
+     {
+       "position_name_th": "ร้อยตำรวจเอก",
+       "position_id": 8,
+       "position_name_short_th": "ร.ต.อ.",
+       "position_name_en": "Police Captain",
+       "position_name_short_en": "POL.CAPT."
+     },
+     {
+       "position_name_th": "ร้อยตำรวจโท",
+       "position_id": 9,
+       "position_name_short_th": "ร.ต.ท.",
+       "position_name_en": "Police Lieutenant",
+       "position_name_short_en": "POL.LT."
+     },
+     {
+       "position_name_th": "ร้อยตำรวจตรี",
+       "position_id": 10,
+       "position_name_short_th": "ร.ต.ต.",
+       "position_name_en": "Police Sub-Lieutenant",
+       "position_name_short_en": "POL.SUB.LT."
+     },
+     {
+       "position_name_th": "ดาบตำรวจ",
+       "position_id": 11,
+       "position_name_short_th": "ด.ต.",
+       "position_name_en": "Police Senior Sergeant Major",
+       "position_name_short_en": "POL.SEN.SGT.MAJ."
+     },
+     {
+       "position_name_th": "จ่าสิบตำรวจ",
+       "position_id": 12,
+       "position_name_short_th": "จ.ส.ต.",
+       "position_name_en": "Police Sergeant Major",
+       "position_name_short_en": "POL.SGT.MAJ."
+     },
+     {
+       "position_name_th": "สิบตำรวจเอก",
+       "position_id": 13,
+       "position_name_short_th": "ส.ต.อ.",
+       "position_name_en": "Police Sergeant",
+       "position_name_short_en": "POL.SGT."
+     },
+     {
+       "position_name_th": "สิบตำรวจโท",
+       "position_id": 14,
+       "position_name_short_th": "ส.ต.ท.",
+       "position_name_en": "Police Corporal",
+       "position_name_short_en": "POL.CPL."
+     },
+     {
+       "position_name_th": "สิบตำรวจตรี",
+       "position_id": 15,
+       "position_name_short_th": "ส.ต.ต.",
+       "position_name_en": "Police Lance Corporal",
+       "position_name_short_en": "POL.L"
+     }
+   ]
